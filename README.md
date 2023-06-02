@@ -4,7 +4,7 @@ CRUD application for managing a user's book collection list.
 
 Utilises Open Library API for adding books using identifier codes.
 
-// Example book collection login details: user: example@bookcollection.com pass: example1234
+YouTube demo: https://www.youtube.com/watch?v=Oe36LJVP4U8
 
 ## Recommended IDE Setup
 
