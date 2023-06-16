@@ -60,7 +60,7 @@
             <div v-else>&nbsp;</div>
           </div>
           <div class="list-titles">
-            <div>Aquired</div>
+            <div>Acquired</div>
             <div>Condition</div>
             <div>Completed</div>
           </div>

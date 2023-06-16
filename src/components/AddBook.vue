@@ -117,7 +117,7 @@
         </div>
         <div class="form-item">
           <label for="aquired"
-            >Date Aquired:
+            >Date Acquired:
             <span class="input-error" v-if="v$.aquired.$error">{{
               v$.aquired.$errors[0].$message
             }}</span></label

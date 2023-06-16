@@ -97,7 +97,7 @@
         <option value="genre">Genre</option>
         <option value="language">Language</option>
         <option value="format">Format</option>
-        <option value="aquired">Aquired</option>
+        <option value="aquired">Acquired</option>
         <option value="condition">Condition</option>
         <option value="completed">Completed</option>
         <option value="status">Status</option>
